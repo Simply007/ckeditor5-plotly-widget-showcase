@@ -2,6 +2,8 @@
 
 This project demonstrates a successful integration of Plotly.js chart library with CKEditor 5, allowing users to insert interactive charts directly into their content.
 
+![Plotly Widgets Showcase](./assets/screenshot.png)
+
 ## Features
 
 ### 🎯 **Chart Types Supported**
